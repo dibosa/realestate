@@ -1,0 +1,141 @@
+{
+  "properties": [
+    {
+      "id": "p1",
+      "title": "4\u2011Bed Duplex in Asaba GRA",
+      "purpose": "sale",
+      "type": "duplex",
+      "price": 120000000,
+      "currency": "NGN",
+      "featured": true,
+      "status": "published",
+      "location": {
+        "city": "Asaba",
+        "state": "Delta",
+        "address": "GRA Phase 2",
+        "geo": {
+          "lat": 6.2019,
+          "lng": 6.6953
+        }
+      },
+      "sizeSqm": 420,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "toilets": 5,
+      "parkingSpaces": 2,
+      "amenities": [
+        "fenced",
+        "borehole",
+        "inverter",
+        "security"
+      ],
+      "description": "Newly built duplex with modern kitchen, POP ceiling, and spacious compound.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1501183638710-841dd1904471"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d"
+        }
+      ],
+      "videos": [],
+      "floorPlans": [],
+      "listedAt": 1710000000,
+      "updatedAt": 1712000000,
+      "slug": "4-bed-duplex-asaba-gra-phase-2"
+    },
+    {
+      "id": "p2",
+      "title": "2\u2011Bed Apartment in Okpanam",
+      "purpose": "rent",
+      "type": "apartment",
+      "price": 1800000,
+      "currency": "NGN",
+      "featured": false,
+      "status": "published",
+      "location": {
+        "city": "Asaba",
+        "state": "Delta",
+        "address": "Okpanam Rd by NTA",
+        "geo": {
+          "lat": 6.2212,
+          "lng": 6.6748
+        }
+      },
+      "sizeSqm": 95,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "toilets": 3,
+      "parkingSpaces": 1,
+      "amenities": [
+        "water",
+        "fenced",
+        "prepaid meter"
+      ],
+      "description": "Tidy 2\u2011bed with wardrobe, tiled floors, close to transport.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1560185008-b033106af380"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1560448075-bb4caa6c1e72"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+      ],
+      "floorPlans": [],
+      "listedAt": 1710500000,
+      "updatedAt": 1712500000,
+      "slug": "2-bed-apartment-okpanam-asaba"
+    },
+    {
+      "id": "p3",
+      "title": "Serviced 3\u2011Bed Terrace, Abuja",
+      "purpose": "sale",
+      "type": "terrace",
+      "price": 95000000,
+      "currency": "NGN",
+      "featured": true,
+      "status": "published",
+      "location": {
+        "city": "Abuja",
+        "state": "FCT",
+        "address": "Wuse 2",
+        "geo": {
+          "lat": 9.082,
+          "lng": 7.4951
+        }
+      },
+      "sizeSqm": 210,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "toilets": 4,
+      "parkingSpaces": 2,
+      "amenities": [
+        "genset",
+        "security",
+        "water heaters"
+      ],
+      "description": "Central location, all rooms ensuite, fitted kitchen.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1600607687920-4ce8c559d4a8"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154340-1e4a7a2b320d"
+        }
+      ],
+      "videos": [],
+      "floorPlans": [],
+      "listedAt": 1710600000,
+      "updatedAt": 1712600000,
+      "slug": "serviced-3-bed-terrace-abuja-wuse2"
+    }
+  ]
+}
